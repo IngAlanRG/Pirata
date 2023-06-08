@@ -1,0 +1,8 @@
+node_modules/
+
+
+# Ignorar los archivos dentro de la carpeta uploads
+upload/*
+
+# Permitir la carpeta uploads
+!upload/.gitkeep
